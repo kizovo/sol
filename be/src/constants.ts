@@ -1,5 +1,5 @@
 export const SECRET_KEY = 'MY_SUPERSECRET_SERVER_KEY';
-export const APP_NAME = 'fastify-typescript-docker-rest-api';
+export const APP_NAME = 'sol';
 export const SERVER_PORT = 8080;
 
 export enum URLS {
